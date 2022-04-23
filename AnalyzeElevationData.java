@@ -20,7 +20,7 @@ public class AnalyzeElevationData {
          */
         int[] dimensionsArray = new int[3];
         int[][] arrayOfValues = null;
-        File file = new File("src/ELEVATIONS.TXT");
+        File file = new File("ELEVATIONS.TXT");
         try {
             Scanner textFile = new Scanner(file);
             for (int i = 0; i < dimensionsArray.length; i++) {
