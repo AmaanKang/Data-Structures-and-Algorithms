@@ -5,4 +5,6 @@ The main java files to run are:
 AnalyzeElevationData.java, 
 ArrayListLinkedList.java, 
 BattleshipStrategy.java, 
-
+HashingSearching.java, 
+Queues.java, 
+SortingAnalysis.java
